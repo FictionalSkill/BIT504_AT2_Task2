@@ -3,5 +3,7 @@
  */
 
 public enum Player {
-	Empty, Cross, Nought
+	Empty, // cell is empty
+	Cross, // cell contains a cross
+	Nought // cell contains a nought
 }
